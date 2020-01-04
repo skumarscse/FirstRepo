@@ -42,6 +42,7 @@ public class HomepageObjects extends BasePage {
 		System.out.println(women.isDisplayed());
 		System.out.println(dresses.isDisplayed());
 		System.out.println(tshirts.isDisplayed());
+		System.out.println("Hello....");
 		
 	} 
 }
